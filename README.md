@@ -81,7 +81,7 @@ The application displays:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PSL-Scoring-Board.git
+git clone https://github.com/areebaamin12345/PSL-Scoring-Board.git
 ```
 
 ## Compile the source code
